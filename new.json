@@ -1,7 +1,13 @@
-<xml>
-<name>Daniil
-<surname>Klikov
-<background>Alexandrovich</name>
-<age>24</age>
-<pets>0</pets>
-<desired Salary>gooogol</desired Salary>
+{	
+        "firstName": "Daniil",
+        "lasteName": "Klikov",
+	"surName":"Alexandrovich",
+	"Age": "24",
+        "pets":"0",
+        "desired Salary": "gooogol"
+}
+
+
+
+
+
