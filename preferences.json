@@ -1,6 +1,12 @@
-<xml>
-<Favorite movie>Henkog
-<favorite series>Game of Thrones</Favorite>
-<favorite food>burger
-<favorite season>summer
-<side you would like to visit>Amsterdam
+{	
+        "Favorite movie": "Henkog",
+        "favorite series": "Game of Thrones",
+	"favorite food":"burger",
+	"favorite season": "summer",
+        "pets":"No",
+        "side you would like to visit": {"State":"Netherlands",
+					"Town":"Amsterdam",
+					 "the street":"Red light district"}
+
+					
+}
