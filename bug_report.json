@@ -1,13 +1,13 @@
 {
-      "short description": {"The texts of errors": "errors what",
+      "Summary": {"The texts of errors": "errors what",
                             "On the form Zvorotny zvyazok on the page https://itawards.ua/ua": "where?",
                             "In the UA version of the site have not been translated into Ukrainian": "when?"}
-      "Screenshot":"https://itawards.ua/ua",
-      "Steps to playback"{"1":"Open the page https://itawards.ua/ua",
+      "Attachment":"https://itawards.ua/ua",
+      "Steps to Reproduce"{"1":"Open the page https://itawards.ua/ua",
                           "2":"Scroll to the form Zvorotny zvyazyk",
                           "3":"Click on the button Send",
                           "4":"Pay attention to the language of errors that appeared under the form fields"}
-      "Actual result":"Errors are displayed in English",
+      "Result":"Errors are displayed in English",
       "Expected Result":"Errors are displayed in Ukrainian",
       "Seriousness":"S1 (minor)"
 }
